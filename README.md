@@ -23,7 +23,7 @@ Welcome to my coding universe! 🚀 I'm a passionate young developer exploring t
 
 ## 📬 Let's Connect!
 - 🌐 [LinkedIn](https://www.linkedin.com/in/jxyxia/)
-- 📧 Email: jxyxia.codes@gmail.com
+- 📧 Email: jxyxiacodes@gmail.com
 - 🐦 Twitter: [@JayDevCodes](https://twitter.com/JayDevCodes)
 
 
