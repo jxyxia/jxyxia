@@ -22,8 +22,8 @@ Welcome to my coding universe! 🚀 I'm a passionate young developer exploring t
 - 🌐 Contributing to the ever-evolving landscape of mobile and open-source technologies.
 
 ## 📬 Let's Connect!
-- 🌐 [LinkedIn](https://www.linkedin.com/in/jayesh-developer/)
-- 📧 Email: jayesh.dev@example.com
+- 🌐 [LinkedIn](https://www.linkedin.com/in/jxyxia/)
+- 📧 Email: jxyxia.codes@gmail.com
 - 🐦 Twitter: [@JayDevCodes](https://twitter.com/JayDevCodes)
 
 
