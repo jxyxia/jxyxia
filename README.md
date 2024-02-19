@@ -8,12 +8,12 @@ Welcome to my coding universe! 🚀 I'm a passionate young developer exploring t
 - 📚 Always learning and keeping up with the latest Android technologies.
 
 ## 📱 App Development Journey
-- 🎨 Started my journey with Flutter.
+- 🎨 Started my journey with Javascript.
 - 🚀 Want to build cross-platform apps that stand out.
 - 💡 Exploring innovative ideas to make user experiences delightful.
 
 ## 🧑‍💻 Currently Learning
-- 🚀 Flutter for expressive and responsive UIs.
+- 🚀 Frontend = for expressive and responsive UIs.
 - 🤖 Enhancing my C++ skills for robust and efficient code.
 
 ## 🌟 What Excites Me
