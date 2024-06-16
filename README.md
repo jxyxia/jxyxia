@@ -2,6 +2,7 @@
 
 I am a freelance frontend developer.
 
+
 - 🪛 My go to tech-stack:
 - HTML
 - CSS
@@ -10,10 +11,12 @@ I am a freelance frontend developer.
 - TailwindCSS
 - Figma
 
+
 - 🔭 I’m currently working on  my Portfolio website
 - 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on Web Developement projects
 - 🤔 I’m looking for help with  JAVA
+
 
 - 📫 How to reach me:
 
