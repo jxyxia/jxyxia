@@ -7,8 +7,6 @@ I am a freelance frontend developer.
 - CSS
 - Javascript
 - React/NextJS
-- React-Three-Fiber
-- Contentful
 - TailwindCSS
 - Figma
 
