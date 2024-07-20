@@ -3,7 +3,7 @@
 I am a freelance frontend developer.
 
 
-- 🪛 My go to tech-stack:
+- My go to tech-stack:
 - HTML
 - CSS
 - Javascript
