@@ -1,4 +1,4 @@
--### Hey there, I'm Jay
+-# Hey there, I'm Jay
 
 I am a freelance frontend developer.
 
