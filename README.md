@@ -20,6 +20,6 @@ I am a freelance frontend developer.
 
 - 📫 How to reach me:
 
-- Portfolio: Working on it..
+- Portfolio: https://jxyxia.github.io/portfolio/
 - Linkedin: https://www.linkedin.com/in/jayesh0735/
 - Instagram: https://www.instagram.com/jayesh0735
