@@ -3,7 +3,7 @@ Hi there! 👋
 </p>
 
 <p>
-I'm <a href="YOUR_PORTFOLIO_URL"><strong>Jayesh</strong></a>, a software engineer in progress and builder of internet things.
+I'm <a href="https://portfolio.jxyxia.deno.net/"><strong>Jayesh</strong></a>, a software engineer in progress and builder of internet things.
 </p>
 
 <p>
@@ -23,11 +23,11 @@ Let's connect!
 </p>
 
 <p>
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/jayesh0735">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://portfolio.jxyxia.deno.net/">
   <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 </p>
