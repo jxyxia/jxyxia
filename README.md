@@ -1,19 +1,15 @@
-# Hi there! 👋 (yes, I see you stalking my profile)
+# Hi there (yes, I see you stalking my profile)
 
-I'm **Jay** — a Computer Engineering student who writes code that *sometimes* works on the first try.
-
-Currently surviving my third year at **Mumbai University**, one deadline at a time.  
-My GitHub is a graveyard of half-finished projects I swore I'd "come back to later."  
-Spoiler: I did not come back.
+I'm Jay, a Computer Engineering student who writes code that sometimes works on the first try. Currently surviving my third year at Mumbai University, one deadline at a time. My GitHub is a graveyard of half-finished projects I swore I'd "come back to later." Spoiler: I did not come back.
 
 ---
 
 ## What I actually do
 
-- 🛠️ Build things. Break things. Google why things are broken. Repeat.
-- ☁️ Dabble in cloud computing and serverless stuff (fancy words for "runs on someone else's computer")
-- 📚 Study for exams the night before and somehow still pass (don't recommend)
-- 🐛 Introduce bugs with full confidence, then spend 3 hours blaming the framework
+- Build things. Break things. Google why things are broken. Repeat.
+- Dabble in cloud computing and serverless stuff (fancy words for "runs on someone else's computer")
+- Study for exams the night before and somehow still pass (don't recommend)
+- Introduce bugs with full confidence, then spend 3 hours blaming the framework
 
 ---
 
@@ -40,14 +36,14 @@ Spoiler: I did not come back.
 
 ## Currently
 
-- 🔭 Working on projects I'll definitely finish
-- 🌱 Learning things I'll definitely remember
-- 💬 Ask me about anything — I'll confidently give you a slightly wrong answer
-- 📫 How to reach me: send a LinkedIn request I'll accept in 3-5 business days
+- Working on projects I'll definitely finish
+- Learning things I'll definitely remember
+- Ask me about anything, I'll confidently give you a slightly wrong answer
+- How to reach me: send a LinkedIn request I'll accept in 3-5 business days
 
 ---
 
-*"It works on my machine"* — me, always.
+*"It works on my machine"* -- me, always.
 
 ---
 
